@@ -3,7 +3,7 @@
 **Infra Table**
 
 ## Introduction
-We are a group of individuals in the XRPL/Xahau Community focused on infrastructure. We have come together to create a Xahau Governance Game table that rewards validators on Xahau. Our goal is to distribute a portion of our table rewards to Xahau validators. Our ethos is to foster a welcoming and friendly environment as we pursue new and exciting opportunities.
+We are a group of individuals in the XRPL/Xahau Community focused on infrastructure. We have come together to create a Xahau Governance Game table that rewards validators on Xahau. Our goal is to distribute a portion of our table rewards to Xahau validators.  Our ethos is to foster a network of exciting new opportunities.
 
 ## Founding Members
 **@Cbot_XRPL:** One of our network operators, @Cbot_XRPL runs a validator on the Xahau UNL and has over four years of experience in the XRPL community. He owns a business, @Cbotlabs, which provides infrastructure to the XRPL and supports community projects.
