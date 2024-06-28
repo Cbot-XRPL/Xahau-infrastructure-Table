@@ -21,8 +21,7 @@ Our plan to manage infra table tokens and rewards is straightforward. A portion 
 We intend to build hooks to automate our table and validator reward distribution.
 
 ## Member Guidelines
-Table applicants must be active members of the Xahau community and its infrastructure. Founding members must approve new applicants, and current table members must vote on whether to add the applicant. Members must play their part and fulfill their roles or risk being voted off the table. Founding members may only be voted out with a 2-1 vote among the three founders.
-
+Table applicants must be active members of the Xahau community and its infrastructure. Founding members must approve new applicants, and current table members must vote on whether to add the applicant. Members must play their part and fulfill their roles or risk being voted off the table. Founding members may only be voted out with a 2-1 vote among the three founders. Table members will meet monthly to vote on members, table structure, communication expectations, amendments, planning, projects, and fund disbursement.
 ## Roles
 Each seat at our table will be required to fulfill a role in community engagement and infrastructure to qualify. Examples of these roles include:
 
