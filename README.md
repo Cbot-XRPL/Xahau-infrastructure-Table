@@ -3,7 +3,7 @@
 **Infra Table**
 
 ## Introduction
-We are a group of individuals in the XRPL/Xahau Community focused on infrastructure. We have come together to create a Xahau Governance Game table that rewards validators on Xahau. Our goal is to distribute a portion of our table rewards to Xahau validators.  Our ethos is to foster a network of exciting new opportunities.
+We are a group of individuals in the XRPL/Xahau Community focused on infrastructure. We have come together to create a Xahau Governance Game table that rewards validators on Xahau. Our goal is to distribute a portion of our table rewards to Xahau infra operators. Our ethos is to foster a network of exciting new opportunities.
 
 ## Founding Members
 **@Cbot_XRPL:** One of our network operators, @Cbot_XRPL runs a validator on the Xahau UNL and has over four years of experience in the XRPL community. He owns a business, @Cbotlabs, which provides infrastructure to the XRPL and supports community projects.
@@ -13,9 +13,9 @@ We are a group of individuals in the XRPL/Xahau Community focused on infrastruct
 **@DeathRanger14:** Our Community Specialist, @DeathRanger14 has nearly ten years in the XRPL community. Since 2015, he has focused on spreading education about the future of DLT, emphasizing the XRPL/Xahau networks. He dedicates his free time to hosting spaces and participating in discussions on the Internet of Value and DLT possibilities with Xahau/XRPL.
 
 ## Token and Reward Summary
-Our plan to manage infra table tokens and rewards is straightforward. A portion of tokens received by the table as rewards will be routed to reliable validators. Below is a breakdown of our tokens and rewards:
+Our plan to manage infra table tokens and rewards is straightforward. A portion of tokens received by the table as rewards will be routed to reliable infra operators. To be considered for rewards, each infra instance will need to be online for at least 30 days uninterrupted, and meet minimum thresholds suggested for a validator by Xahaud. We will start with validators and consider expanding to nodes and other infra as we automate our tasks. Below is a breakdown of our tokens and rewards:
 
-- **70% of table rewards:** These will be routed to a list of reliable validators selected by table members based on their legitimacy.
+- **70% of table rewards:** These will be routed to a list of reliable infra operators selected by table members based on their legitimacy.
 - **30% of table rewards:** This portion, along with any starting table balance, will be kept at our table to fund infrastructure growth and table members. These funds are owned equally by table members, who will vote on their use, including projects and draws.
 
 We intend to build hooks to automate our table and validator reward distribution.
@@ -33,4 +33,5 @@ Each seat at our table will be required to fulfill a role in community engagemen
 
 ## Disclaimer
 None of the statements above are legally binding. Founding members reserve the right to change this Xahau Governance Game table.
+
 
